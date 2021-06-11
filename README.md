@@ -1,1 +1,1 @@
-# HackerRank-Deepak-Solution
+# HackerRank-Deepak-Try-Solution
